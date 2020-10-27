@@ -2,7 +2,7 @@ from cloudmesh.shell.command import PluginCommand
 from cloudmesh.shell.command import command
 
 
-# see https://github.com/cloudmesh/client/blob/master/cloudmesh_client/shell/plugins/WorkflowCommand.py
+# see https://github.com/cloudmesh/client/blob/main/cloudmesh_client/shell/plugins/WorkflowCommand.py
 
 class Workflow_draftCommand(PluginCommand):
 
